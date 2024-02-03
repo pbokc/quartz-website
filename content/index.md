@@ -1,6 +1,2 @@
----
-title: Welcome to Quartz
----
+👋 I'm currently a software engineer @ bloomberg and volunteer researcher @ [NIH](https://ccr.cancer.gov/cancer-data-science-laboratory)
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.

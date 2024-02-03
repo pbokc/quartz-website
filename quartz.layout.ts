@@ -47,3 +47,15 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+export const onlyContentPageLayout: PageLayout = {
+  beforeBody: [],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(Component.Explorer()),
+  ],
+  right: []
+}
